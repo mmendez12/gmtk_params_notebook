@@ -1,0 +1,632 @@
+
+% Dense CPTs
+5 
+0 
+start_seg 
+0 % number parents
+10 % cardinalities
+9.99999999999999778e-02 9.99999999999999778e-02 9.99999999999999778e-02 9.99999999999999778e-02 9.99999999999999778e-02 9.99999999999999778e-02 9.99999999999999778e-02 9.99999999999999778e-02 9.99999999999999778e-02 9.99999999999999778e-02 
+1 
+seg_subseg 
+1 % number parents
+10 1 % cardinalities
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+2 
+seg_seg 
+1 % number parents
+10 10 % cardinalities
+0.00000000000000000e+00 3.17975343305153674e-02 0.00000000000000000e+00 8.67328499489427446e-03 1.44709013987515261e-01 5.56317333657908863e-02 1.85688249402092026e-01 3.79148780011364095e-01 5.27486971105108060e-02 1.41602706797317346e-01 
+1.37528991614548068e-01 0.00000000000000000e+00 2.86539060729932571e-02 9.45616627820545230e-02 8.02348463690667618e-02 0.00000000000000000e+00 3.95426378713561788e-01 2.29211850382935484e-01 0.00000000000000000e+00 3.43823640648400972e-02 
+0.00000000000000000e+00 3.11495735697510767e-01 0.00000000000000000e+00 9.83833584938651196e-02 0.00000000000000000e+00 0.00000000000000000e+00 5.90120905808624086e-01 0.00000000000000000e+00 0.00000000000000000e+00 0.00000000000000000e+00 
+0.00000000000000000e+00 6.76909717408729406e-01 0.00000000000000000e+00 0.00000000000000000e+00 3.07573647087854424e-02 0.00000000000000000e+00 0.00000000000000000e+00 2.92332917882485166e-01 0.00000000000000000e+00 0.00000000000000000e+00 
+2.28345026942785049e-03 4.42116864916371373e-04 1.26308170272036702e-04 0.00000000000000000e+00 0.00000000000000000e+00 6.79489786875010944e-03 8.66000065104019089e-04 2.98550517843736873e-01 1.56811549845966153e-02 6.75255553933196140e-01 
+3.48474880787063707e-02 0.00000000000000000e+00 0.00000000000000000e+00 0.00000000000000000e+00 2.36478886990506676e-01 0.00000000000000000e+00 2.75133257843770355e-03 4.44871418116109751e-01 9.62857453998149232e-02 1.84765128836424514e-01 
+4.28342472613578884e-01 1.92557405227708700e-01 0.00000000000000000e+00 5.97090708676836692e-03 8.49639601166880670e-02 1.79078492777171999e-02 0.00000000000000000e+00 2.06074085679767705e-01 0.00000000000000000e+00 6.41833199977710905e-02 
+1.44999244198031115e-02 1.80804457281065391e-03 7.83429674887429236e-04 3.01370622334917076e-04 7.39246229621214890e-01 2.77211503753599341e-02 3.80941877309315174e-03 0.00000000000000000e+00 6.34156066118733847e-02 1.48414825328622463e-01 
+1.85518910504812937e-02 0.00000000000000000e+00 0.00000000000000000e+00 0.00000000000000000e+00 2.74543150040059691e-01 3.99729627151458947e-02 0.00000000000000000e+00 4.83338935316157792e-01 0.00000000000000000e+00 1.83593060878155356e-01 
+3.79123198218619950e-03 3.00683434750000913e-04 2.50535867345551744e-04 0.00000000000000000e+00 8.78436321065921510e-01 7.56625011007657725e-03 6.34693478147957185e-04 9.40051806527508055e-02 1.50151034088213935e-02 0.00000000000000000e+00 
+3 
+seg_subseg_subseg 
+2 % number parents
+10 1 1 % cardinalities
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+1.00000000000000000e+00 
+4 
+segCountDown_seg_segTransition 
+2 % number parents
+2 10 3 % cardinalities
+8.12324516837561572e-01 8.12324490863130105e-02 1.06443034076125487e-01 
+8.23293500860352467e-01 8.23293474535182895e-02 9.43771516861292847e-02 
+5.62517583146919464e-01 5.62517565160174787e-02 3.81230660337063043e-01 
+8.02433974524056959e-01 8.02433948865883401e-02 1.17322630589354771e-01 
+5.92158624948649126e-01 5.92158606014115685e-02 3.48625514449939278e-01 
+4.76548378441568943e-01 4.76548363203727135e-02 4.75796785238058351e-01 
+8.06675541819131925e-01 8.06675516025325418e-02 1.12656906578335561e-01 
+7.40084807799901823e-01 7.40084784135383034e-02 1.85906713786559902e-01 
+4.84830357930107703e-01 4.84830342427444924e-02 4.66686607827147826e-01 
+8.99593143448873978e-01 8.99593114683984452e-02 1.04475450827276207e-02 
+9.09090911733507090e-01 9.09090882664928823e-02 0.00000000000000000e+00 
+9.09090911733507090e-01 9.09090882664929101e-02 0.00000000000000000e+00 
+9.09090911733507090e-01 9.09090882664928823e-02 0.00000000000000000e+00 
+9.09090911733507090e-01 9.09090882664929101e-02 0.00000000000000000e+00 
+9.09090911733507312e-01 9.09090882664927158e-02 0.00000000000000000e+00 
+9.09090911733507090e-01 9.09090882664929517e-02 0.00000000000000000e+00 
+9.09090911733507201e-01 9.09090882664927991e-02 0.00000000000000000e+00 
+9.09090911733507312e-01 9.09090882664927158e-02 0.00000000000000000e+00 
+9.09090911733507090e-01 9.09090882664928823e-02 0.00000000000000000e+00 
+9.09090911733507090e-01 9.09090882664928823e-02 0.00000000000000000e+00 
+
+
+% means
+160 
+0 
+mean_seg0_subseg0_ENCSR000CIL_5F_2B_component0 1 2.4399070535e-03 
+1 
+mean_seg0_subseg0_ENCSR000CIM_5F_2B_component0 1 5.6793056428e-03 
+2 
+mean_seg0_subseg0_ENCSR000COK_5F_2B_component0 1 6.1588424444e-01 
+3 
+mean_seg0_subseg0_ENCSR000CPS_5F_2B_component0 1 9.3090832233e-01 
+4
+mean_seg1_subseg0_ENCSR000CIL_5F_2B_component0 1 1.3081932440e-02 
+17 
+mean_seg1_subseg0_ENCSR000CIM_5F_2B_component0 1 1.3557733968e-02 
+18 
+mean_seg1_subseg0_ENCSR000COK_5F_2B_component0 1 2.0492806435e+00 
+19 
+mean_seg1_subseg0_ENCSR000CPS_5F_2B_component0 1 1.4144827127e+00 
+32 
+mean_seg2_subseg0_ENCSR000CIL_5F_2B_component0 1 7.7870088816e-01 
+33 
+mean_seg2_subseg0_ENCSR000CIM_5F_2B_component0 1 6.6590148211e-01 
+34 
+mean_seg2_subseg0_ENCSR000COK_5F_2B_component0 1 1.2330422401e+00 
+35 
+mean_seg2_subseg0_ENCSR000CPS_5F_2B_component0 1 6.7796701193e-01 
+48 
+mean_seg3_subseg0_ENCSR000CIL_5F_2B_component0 1 2.2212501615e-02 
+49 
+mean_seg3_subseg0_ENCSR000CIM_5F_2B_component0 1 2.4792434648e-02 
+50 
+mean_seg3_subseg0_ENCSR000COK_5F_2B_component0 1 3.2497501373e+00 
+51 
+mean_seg3_subseg0_ENCSR000CPS_5F_2B_component0 1 2.5037446022e+00 
+
+
+
+% diagonal covariance matrices
+16 
+0 
+covar_ENCSR000CIL_5F_2B_component0 1 1.2545154277e-05 
+1 
+covar_ENCSR000CIM_5F_2B_component0 1 1.3007654161e-05 
+2 
+covar_ENCSR000COK_5F_2B_component0 1 2.5651319884e-03 
+3 
+covar_ENCSR000CPS_5F_2B_component0 1 4.2359204963e-03 
+4 
+covar_ENCSR000CQL_5F_2B_component0 1 1.6076817410e-03 
+5 
+covar_ENCSR000CQM_5F_2B_component0 1 4.3538194150e-03 
+6 
+covar_ENCSR000CQX_5F_2B_component0 1 1.0311466176e-03 
+7 
+covar_ENCSR000CQY_5F_2B_component0 1 1.7381004000e-04 
+8 
+covar_ENCSR000CQZ_5F_2B_component0 1 4.1358420276e-04 
+9 
+covar_ENCSR000CRA_5F_2B_component0 1 1.4787736582e-03 
+10 
+covar_ENCSR000CRB_5F_2B_component0 1 1.1242615437e-04 
+11 
+covar_ENCSR384ZXD_5F_2B_component0 1 7.5674662367e-04 
+12 
+covar_ENCSR530NHO_5F_2B_component0 1 1.5598923201e-03 
+13 
+covar_ENCSR594NJP_5F_2B_component0 1 1.0364524787e-03 
+14 
+covar_ENCSR596ACL_5F_2B_component0 1 5.7376630139e-04 
+15 
+covar_K562_5Fpro_5Fplus_component0 1 9.3294180930e-02 
+
+
+% dense PMFs
+160 
+0 
+dpmf_seg0_subseg0_ENCSR000CIL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+1 
+dpmf_seg0_subseg0_ENCSR000CIM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+2 
+dpmf_seg0_subseg0_ENCSR000COK_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+3 
+dpmf_seg0_subseg0_ENCSR000CPS_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+4 
+dpmf_seg0_subseg0_ENCSR000CQL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+5 
+dpmf_seg0_subseg0_ENCSR000CQM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+6 
+dpmf_seg0_subseg0_ENCSR000CQX_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+7 
+dpmf_seg0_subseg0_ENCSR000CQY_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+8 
+dpmf_seg0_subseg0_ENCSR000CQZ_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+9 
+dpmf_seg0_subseg0_ENCSR000CRA_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+10 
+dpmf_seg0_subseg0_ENCSR000CRB_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+11 
+dpmf_seg0_subseg0_ENCSR384ZXD_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+12 
+dpmf_seg0_subseg0_ENCSR530NHO_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+13 
+dpmf_seg0_subseg0_ENCSR594NJP_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+14 
+dpmf_seg0_subseg0_ENCSR596ACL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+15 
+dpmf_seg0_subseg0_K562_5Fpro_5Fplus 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+16 
+dpmf_seg1_subseg0_ENCSR000CIL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+17 
+dpmf_seg1_subseg0_ENCSR000CIM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+18 
+dpmf_seg1_subseg0_ENCSR000COK_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+19 
+dpmf_seg1_subseg0_ENCSR000CPS_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+20 
+dpmf_seg1_subseg0_ENCSR000CQL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+21 
+dpmf_seg1_subseg0_ENCSR000CQM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+22 
+dpmf_seg1_subseg0_ENCSR000CQX_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+23 
+dpmf_seg1_subseg0_ENCSR000CQY_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+24 
+dpmf_seg1_subseg0_ENCSR000CQZ_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+25 
+dpmf_seg1_subseg0_ENCSR000CRA_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+26 
+dpmf_seg1_subseg0_ENCSR000CRB_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+27 
+dpmf_seg1_subseg0_ENCSR384ZXD_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+28 
+dpmf_seg1_subseg0_ENCSR530NHO_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+29 
+dpmf_seg1_subseg0_ENCSR594NJP_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+30 
+dpmf_seg1_subseg0_ENCSR596ACL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+31 
+dpmf_seg1_subseg0_K562_5Fpro_5Fplus 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+32 
+dpmf_seg2_subseg0_ENCSR000CIL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+33 
+dpmf_seg2_subseg0_ENCSR000CIM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+34 
+dpmf_seg2_subseg0_ENCSR000COK_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+35 
+dpmf_seg2_subseg0_ENCSR000CPS_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+36 
+dpmf_seg2_subseg0_ENCSR000CQL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+37 
+dpmf_seg2_subseg0_ENCSR000CQM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+38 
+dpmf_seg2_subseg0_ENCSR000CQX_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+39 
+dpmf_seg2_subseg0_ENCSR000CQY_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+40 
+dpmf_seg2_subseg0_ENCSR000CQZ_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+41 
+dpmf_seg2_subseg0_ENCSR000CRA_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+42 
+dpmf_seg2_subseg0_ENCSR000CRB_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+43 
+dpmf_seg2_subseg0_ENCSR384ZXD_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+44 
+dpmf_seg2_subseg0_ENCSR530NHO_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+45 
+dpmf_seg2_subseg0_ENCSR594NJP_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+46 
+dpmf_seg2_subseg0_ENCSR596ACL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+47 
+dpmf_seg2_subseg0_K562_5Fpro_5Fplus 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+48 
+dpmf_seg3_subseg0_ENCSR000CIL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+49 
+dpmf_seg3_subseg0_ENCSR000CIM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+50 
+dpmf_seg3_subseg0_ENCSR000COK_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+51 
+dpmf_seg3_subseg0_ENCSR000CPS_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+52 
+dpmf_seg3_subseg0_ENCSR000CQL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+53 
+dpmf_seg3_subseg0_ENCSR000CQM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+54 
+dpmf_seg3_subseg0_ENCSR000CQX_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+55 
+dpmf_seg3_subseg0_ENCSR000CQY_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+56 
+dpmf_seg3_subseg0_ENCSR000CQZ_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+57 
+dpmf_seg3_subseg0_ENCSR000CRA_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+58 
+dpmf_seg3_subseg0_ENCSR000CRB_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+59 
+dpmf_seg3_subseg0_ENCSR384ZXD_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+60 
+dpmf_seg3_subseg0_ENCSR530NHO_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+61 
+dpmf_seg3_subseg0_ENCSR594NJP_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+62 
+dpmf_seg3_subseg0_ENCSR596ACL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+63 
+dpmf_seg3_subseg0_K562_5Fpro_5Fplus 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+64 
+dpmf_seg4_subseg0_ENCSR000CIL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+65 
+dpmf_seg4_subseg0_ENCSR000CIM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+66 
+dpmf_seg4_subseg0_ENCSR000COK_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+67 
+dpmf_seg4_subseg0_ENCSR000CPS_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+68 
+dpmf_seg4_subseg0_ENCSR000CQL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+69 
+dpmf_seg4_subseg0_ENCSR000CQM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+70 
+dpmf_seg4_subseg0_ENCSR000CQX_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+71 
+dpmf_seg4_subseg0_ENCSR000CQY_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+72 
+dpmf_seg4_subseg0_ENCSR000CQZ_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+73 
+dpmf_seg4_subseg0_ENCSR000CRA_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+74 
+dpmf_seg4_subseg0_ENCSR000CRB_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+75 
+dpmf_seg4_subseg0_ENCSR384ZXD_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+76 
+dpmf_seg4_subseg0_ENCSR530NHO_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+77 
+dpmf_seg4_subseg0_ENCSR594NJP_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+78 
+dpmf_seg4_subseg0_ENCSR596ACL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+79 
+dpmf_seg4_subseg0_K562_5Fpro_5Fplus 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+80 
+dpmf_seg5_subseg0_ENCSR000CIL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+81 
+dpmf_seg5_subseg0_ENCSR000CIM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+82 
+dpmf_seg5_subseg0_ENCSR000COK_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+83 
+dpmf_seg5_subseg0_ENCSR000CPS_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+84 
+dpmf_seg5_subseg0_ENCSR000CQL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+85 
+dpmf_seg5_subseg0_ENCSR000CQM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+86 
+dpmf_seg5_subseg0_ENCSR000CQX_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+87 
+dpmf_seg5_subseg0_ENCSR000CQY_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+88 
+dpmf_seg5_subseg0_ENCSR000CQZ_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+89 
+dpmf_seg5_subseg0_ENCSR000CRA_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+90 
+dpmf_seg5_subseg0_ENCSR000CRB_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+91 
+dpmf_seg5_subseg0_ENCSR384ZXD_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+92 
+dpmf_seg5_subseg0_ENCSR530NHO_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+93 
+dpmf_seg5_subseg0_ENCSR594NJP_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+94 
+dpmf_seg5_subseg0_ENCSR596ACL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+95 
+dpmf_seg5_subseg0_K562_5Fpro_5Fplus 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+96 
+dpmf_seg6_subseg0_ENCSR000CIL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+97 
+dpmf_seg6_subseg0_ENCSR000CIM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+98 
+dpmf_seg6_subseg0_ENCSR000COK_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+99 
+dpmf_seg6_subseg0_ENCSR000CPS_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+100 
+dpmf_seg6_subseg0_ENCSR000CQL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+101 
+dpmf_seg6_subseg0_ENCSR000CQM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+102 
+dpmf_seg6_subseg0_ENCSR000CQX_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+103 
+dpmf_seg6_subseg0_ENCSR000CQY_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+104 
+dpmf_seg6_subseg0_ENCSR000CQZ_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+105 
+dpmf_seg6_subseg0_ENCSR000CRA_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+106 
+dpmf_seg6_subseg0_ENCSR000CRB_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+107 
+dpmf_seg6_subseg0_ENCSR384ZXD_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+108 
+dpmf_seg6_subseg0_ENCSR530NHO_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+109 
+dpmf_seg6_subseg0_ENCSR594NJP_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+110 
+dpmf_seg6_subseg0_ENCSR596ACL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+111 
+dpmf_seg6_subseg0_K562_5Fpro_5Fplus 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+112 
+dpmf_seg7_subseg0_ENCSR000CIL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+113 
+dpmf_seg7_subseg0_ENCSR000CIM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+114 
+dpmf_seg7_subseg0_ENCSR000COK_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+115 
+dpmf_seg7_subseg0_ENCSR000CPS_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+116 
+dpmf_seg7_subseg0_ENCSR000CQL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+117 
+dpmf_seg7_subseg0_ENCSR000CQM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+118 
+dpmf_seg7_subseg0_ENCSR000CQX_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+119 
+dpmf_seg7_subseg0_ENCSR000CQY_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+120 
+dpmf_seg7_subseg0_ENCSR000CQZ_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+121 
+dpmf_seg7_subseg0_ENCSR000CRA_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+122 
+dpmf_seg7_subseg0_ENCSR000CRB_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+123 
+dpmf_seg7_subseg0_ENCSR384ZXD_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+124 
+dpmf_seg7_subseg0_ENCSR530NHO_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+125 
+dpmf_seg7_subseg0_ENCSR594NJP_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+126 
+dpmf_seg7_subseg0_ENCSR596ACL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+127 
+dpmf_seg7_subseg0_K562_5Fpro_5Fplus 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+128 
+dpmf_seg8_subseg0_ENCSR000CIL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+129 
+dpmf_seg8_subseg0_ENCSR000CIM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+130 
+dpmf_seg8_subseg0_ENCSR000COK_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+131 
+dpmf_seg8_subseg0_ENCSR000CPS_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+132 
+dpmf_seg8_subseg0_ENCSR000CQL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+133 
+dpmf_seg8_subseg0_ENCSR000CQM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+134 
+dpmf_seg8_subseg0_ENCSR000CQX_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+135 
+dpmf_seg8_subseg0_ENCSR000CQY_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+136 
+dpmf_seg8_subseg0_ENCSR000CQZ_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+137 
+dpmf_seg8_subseg0_ENCSR000CRA_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+138 
+dpmf_seg8_subseg0_ENCSR000CRB_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+139 
+dpmf_seg8_subseg0_ENCSR384ZXD_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+140 
+dpmf_seg8_subseg0_ENCSR530NHO_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+141 
+dpmf_seg8_subseg0_ENCSR594NJP_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+142 
+dpmf_seg8_subseg0_ENCSR596ACL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+143 
+dpmf_seg8_subseg0_K562_5Fpro_5Fplus 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+144 
+dpmf_seg9_subseg0_ENCSR000CIL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+145 
+dpmf_seg9_subseg0_ENCSR000CIM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+146 
+dpmf_seg9_subseg0_ENCSR000COK_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+147 
+dpmf_seg9_subseg0_ENCSR000CPS_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+148 
+dpmf_seg9_subseg0_ENCSR000CQL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+149 
+dpmf_seg9_subseg0_ENCSR000CQM_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+150 
+dpmf_seg9_subseg0_ENCSR000CQX_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+151 
+dpmf_seg9_subseg0_ENCSR000CQY_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+152 
+dpmf_seg9_subseg0_ENCSR000CQZ_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+153 
+dpmf_seg9_subseg0_ENCSR000CRA_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+154 
+dpmf_seg9_subseg0_ENCSR000CRB_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+155 
+dpmf_seg9_subseg0_ENCSR384ZXD_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+156 
+dpmf_seg9_subseg0_ENCSR530NHO_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+157 
+dpmf_seg9_subseg0_ENCSR594NJP_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+158 
+dpmf_seg9_subseg0_ENCSR596ACL_5F_2B 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+159 
+dpmf_seg9_subseg0_K562_5Fpro_5Fplus 1 DirichletTable dirichlet_num_mix_components 
+1.00000000000000000e+00 
+
